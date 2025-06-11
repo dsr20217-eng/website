@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISD Blockchain Mainnet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ISD Blockchain Network</h1>
+        <p>Multi-chain financial ecosystem integrating BTC, ETH, ISDH, USDT, and USDC.</p>
+    </header>
+
+    <section id="metrics">
+        <h2>Live Blockchain Metrics</h2>
+        <p>Transactions Per Second: <span id="tps">Loading...</span></p>
+        <p>Liquidity Pool Size: <span id="liquidity">Loading...</span></p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISD Blockchain Mainnet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ISD Blockchain Network</h1>
+        <p>Multi-chain financial ecosystem integrating BTC, ETH, ISDH, USDT, and USDC.</p>
+    </header>
+
+    <section id="metrics">
+        <h2>Live Blockchain Metrics</h2>
+        <p>Transactions Per Second: <span id="tps">Loading...</span></p>
+        <p>Liquidity Pool Size: <span id="liquidity">Loading...</span></p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
